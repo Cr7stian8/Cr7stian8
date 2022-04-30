@@ -1,7 +1,7 @@
 ### Olá !! Bem vindo ao meu Github.
 ##
 
-Meu nome é Cristiano, tenho 18 anos. Atualmente estou participando de um bootcamp destinado a alunos que participaram de uma olimpíada de matemática para me formar um desenvolvedor fullstack java junior.
+Meu nome é Cristiano, tenho 18 anos. Atualmente estou participando de um bootcamp destinado a alunos que participaram de uma olimpíada de matemática para me desenvolver profissionalmente, durante o curso será desenvolvido três grandes projetos que serão de grande valor para o meu crescimento profissional.
 
 ##
 
