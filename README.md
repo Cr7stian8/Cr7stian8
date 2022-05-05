@@ -9,15 +9,15 @@
 
 ## **Repositórios de cada projeto** 📖
 
-<u>Projeto 1:</u> in progress
+<img align= "right" src="https://github-readme-stats.vercel.app/api?username=Cr7stian8&show_icons=true&hide=issues" alt="Anurag GitHub stats"  /><u>Projeto 1:</u> in progress
+
+
 
 <u>projeto 2:</u> in progress
 
+
+
 <u>projeto 3:</u> in progress
-
-------
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cr7stian8&show_icons=true&hide=issues" alt="Anurag GitHub stats"  />
 
 ------
 
