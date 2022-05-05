@@ -5,7 +5,7 @@
 
 ## **About me** 📚
 
-​       Meu nome é Cristiano, tenho 18 anos. Atualmente estou participando de um bootcamp destinado a alunos medalhistas de uma olimpíada de matemática para me desenvolver na área de tecnologia. sempre gostei muito de matemática e exercícios de lógica o que me garantiu uma grande afinidade com a área de TI, durante o curso foi desenvolvido três grandes projetos em grupos usando a metodologia ágil Scrum que me possibilitou desenvolver habilidades de trabalho em equipe e comunicação, que serão de grande valor para o meu crescimento profissional me capacitando para atuar com diversas tecnologias como: Java, React, Node.js, Spring, mySQL, HTML, CSS, Javascript e versionamento de código Git. 
+​       Meu nome é Cristiano, tenho 18 anos. Atualmente estou participando de um bootcamp destinado a alunos medalhistas de uma olimpíada de matemática para me desenvolver na área de tecnologia. sempre gostei muito de matemática e exercícios de lógica o que me garantiu uma grande afinidade com a área de TI, durante o curso foi desenvolvido três grandes projetos em grupos usando a metodologia ágil Scrum que me possibilitou desenvolver habilidades de trabalho em equipe e comunicação, que serão de grande valor para o meu crescimento profissional me capacitando para atuar com diversas tecnologias como: Java, React, Node.js, Spring, mySQL, Javascript e versionamento de código Git. 
 
 ## **Repositórios de cada projeto** 📖
 
