@@ -18,6 +18,12 @@ Meu nome é Cristiano, tenho 18 anos. Atualmente estou participando de um bootca
 <u>projeto 3:</u> in progress
 <br>
 
-## **Contribuiçôes e sequência** 🖥🖱
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cr7stian8&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D&sideNums=3E63FF&stroke=3651DD&ring=2656DD&dates=000000&fire=FF0000&background=FFFFFF&currStreakLabel=FF0000&border=FFFFFF&currStreakNum=FF0000&sideLabels=000000)	](https://git.io/streak-stats)
-  
+## **Linguagens e sequência** 🖥🖱
+
+
+<a href="https://github.com/Cr7stian8/Cr7stian8">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr7stian8&layout=DEMO" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Cr7stian8&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D&sideNums=3E63FF&stroke=3651DD&ring=2656DD&dates=000000&fire=FF0000&background=FFFFFF&currStreakLabel=FF0000&border=FFFFFF&currStreakNum=FF0000&sideLabels=000000" />
+</a>
