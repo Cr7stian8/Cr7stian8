@@ -2,23 +2,23 @@
 
 ## **About me** 📚
 
-Meu nome é Cristiano, tenho 18 anos. Atualmente estou participando de um bootcamp destinado a alunos medalhistas de uma olimpíada de matemática para me desenvolver na área de tecnologia. sempre gostei muito de matemática e exercícios de lógica o que me garantiu uma grande afinidade com a área de TI, durante o curso foi desenvolvido três grandes projetos em grupos usando a metodologia ágil Scrum que me possibilitou desenvolver habilidades de trabalho em equipe e comunicação, que serão de grande valor para o meu crescimento profissional me capacitando para atuar com diversas tecnologias.
+My name is Cristiano, I'm 18 years old. I'm currently taking part in a bootcamp for students who are winners of a mathematics Olympiad, in order to develop my skills in the area of technology. I've always really liked mathematics and logic exercises, which has given me a great affinity with the IT sector. During the course, three large projects were developed in groups using the agile Scrum methodology, which allowed me to develop team work skills and communication, which will be of great value for my professional growth, enabling me to work with various technologies.
 
 ## **Repositórios de cada projeto** 📖
 <br>
 
-<u>Projeto 1:</u> in progress
+<u>Project 1:</u> in progress
 
 <br>
 
-<u>projeto 2:</u> in progress
+<u>project 2:</u> in progress
 
 <br>
 
-<u>projeto 3:</u> in progress
+<u>project 3:</u> im progress
 <br>
 
-## **Linguagens e sequência** 🖥🖱
+## **repositories of the project** 🖥🖱
 
 
 <a href="https://github.com/Cr7stian8/Cr7stian8">
