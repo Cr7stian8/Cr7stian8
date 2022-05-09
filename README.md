@@ -4,7 +4,7 @@
 
 My name is Cristiano, I'm 18 years old. I'm currently taking part in a bootcamp for students who are winners of a mathematics Olympiad, in order to develop my skills in the area of technology. I've always really liked mathematics and logic exercises, which has given me a great affinity with the IT sector. During the course, three large projects were developed in groups using the agile Scrum methodology, which allowed me to develop team work skills and communication, which will be of great value for my professional growth, enabling me to work with various technologies.
 
-## **repositories of the project** 📖
+## **repositories of the projects** 📖
 <br>
 
 <u>Project 1:</u> in progress
