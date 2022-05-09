@@ -15,7 +15,7 @@ My name is Cristiano, I'm 18 years old. I'm currently taking part in a bootcamp 
 
 <br>
 
-<u>project 3:</u> im progress
+<u>project 3:</u> in progress
 <br>
 
 ## **repositories of the project** 🖥🖱
