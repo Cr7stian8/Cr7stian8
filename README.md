@@ -7,7 +7,7 @@ My name is Cristiano, I'm 18 years old. I'm currently taking part in a bootcamp 
 ## **repositories of the projects** 📖
 <br>
 
-<u>Project 1:</u> in progress
+<u>Project 1:</u> <a>https://github.com/andreiflancanova/Projeto_Java_G2</a>
 
 <br>
 
