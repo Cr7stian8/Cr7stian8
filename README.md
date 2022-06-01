@@ -15,7 +15,7 @@ My name is Cristiano, I'm 18 years old. I'm currently taking part in a bootcamp 
 
 <br>
 
-<u>project 3:</u> in progress
+<u>project 3:</u> </a>https://github.com/Cr7stian8/Projeto-Integrador</a>
 <br>
 
 ## **sequence and programming languages** 🖥🖱
