@@ -2,7 +2,7 @@
 
 ## **About me** 📚
 
-Meu nome é Cristiano, tenho 18 anos. Estou participando de um bootcamp para alunos que são vencedores de uma Olimpíada de Matemática, a fim de desenvolver minhas habilidades na área de tecnologia. Sempre gostei muito de exercícios de matemática e lógica, o que me deu uma grande afinidade com o setor de TI. Durante o curso, três grandes projetos foram desenvolvidos em grupos utilizando a ágil metodologia Scrum, que me permitiu desenvolver habilidades de trabalho em equipe e comunicação, o que será de grande valor para o meu crescimento profissional, me permitindo trabalhar com diversas tecnologias.
+Meu nome é Cristiano. Estou participando de um bootcamp para alunos que são vencedores de uma Olimpíada de Matemática, a fim de desenvolver minhas habilidades na área de tecnologia. Sempre gostei muito de exercícios de matemática e lógica, o que me deu uma grande afinidade com o setor de TI. Durante o curso, três grandes projetos foram desenvolvidos em grupos utilizando a ágil metodologia Scrum, que me permitiu desenvolver habilidades de trabalho em equipe e comunicação, o que será de grande valor para o meu crescimento profissional, me permitindo trabalhar com diversas tecnologias.
 
 ## **repositories of the projects** 📖
 <br>
