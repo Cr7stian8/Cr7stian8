@@ -2,7 +2,7 @@
 
 ## **About me** 📚
 
-My name is Cristiano, I'm 18 years old. I'm currently taking part in a bootcamp for students who are winners of a mathematics Olympiad, in order to develop my skills in the area of technology. I've always really liked mathematics and logic exercises, which has given me a great affinity with the IT sector. During the course, three large projects were developed in groups using the agile Scrum methodology, which allowed me to develop team work skills and communication, which will be of great value for my professional growth, enabling me to work with various technologies.
+Meu nome é Cristiano, tenho 18 anos. Estou participando de um bootcamp para alunos que são vencedores de uma Olimpíada de Matemática, a fim de desenvolver minhas habilidades na área de tecnologia. Sempre gostei muito de exercícios de matemática e lógica, o que me deu uma grande afinidade com o setor de TI. Durante o curso, três grandes projetos foram desenvolvidos em grupos utilizando a ágil metodologia Scrum, que me permitiu desenvolver habilidades de trabalho em equipe e comunicação, o que será de grande valor para o meu crescimento profissional, me permitindo trabalhar com diversas tecnologias.
 
 ## **repositories of the projects** 📖
 <br>
