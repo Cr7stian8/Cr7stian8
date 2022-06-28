@@ -21,7 +21,7 @@
 <u>project 3:</u> </a>https://github.com/Cr7stian8/Projeto-Integrador</a>
 <br>
 <br>
-<h2 align = center >Sequência e linguagens de programação usada🖥🖱</h2>
+<h2 align = center >Sequência e linguagens de programação usadas🖥🖱</h2>
 <br>
 <div align="center">
   <a href="https://github.com/Cr7stian8">
