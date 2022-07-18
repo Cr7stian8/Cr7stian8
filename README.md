@@ -14,7 +14,7 @@
 
 <br>
 
-<u>project 2:</u> <a>https://github.com/Cr7stian8/blogPessoal</a>
+<u>Blog de postagens pessoal: </u> <a>https://blogdocris.netlify.app/</a>
 
 <br>
 
