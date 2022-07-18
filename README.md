@@ -18,7 +18,7 @@
 
 <br>
 
-<u>project 3:</u> </a>https://github.com/Cr7stian8/Projeto-Integrador</a>
+<u>E-commerce - Botanic House:</u> </a>https://botanichouse.netlify.app/</a>
 <br>
 <br>
 <h2 align = center >Sequência e linguagens de programação usadas🖥🖱</h2>
