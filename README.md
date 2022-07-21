@@ -14,9 +14,6 @@
 
 <br>
 
-<u>Blog de postagens pessoal: </u> <a>https://blogdocris.netlify.app/</a>
-
-<br>
 
 <u>E-commerce - Botanic House:</u> </a>https://botanichouse.netlify.app/</a>
 <br>
