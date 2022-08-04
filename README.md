@@ -6,17 +6,16 @@
 <p align = center>Desenvolvedor fullstack java junior pela Generation Brasil. Menção honrosa na OBMEP(Olimpíada Brasileira de matemática para escolas públicas). Iniciando carreira na área de TI. Disposto a aprender e trabalhar com novas tecnologias..</p>
 
 <br>
-<h2 align = center >  Projeto com java puro 📖</h2>
+<h2 align = center >  Projetos 📖</h2>
+
 <br>
+<u>E-commerce - Botanic House:</u> </a>https://botanichouse.netlify.app/</a>
+<br>
+
 <br>
 
 <u>Project 1:</u> <a>https://github.com/andreiflancanova/Projeto_Java_G2</a>
 
-<br>
-
-<h2 align = center >  E-commerce 📖</h2>
-<u>E-commerce - Botanic House:</u> </a>https://botanichouse.netlify.app/</a>
-<br>
 <br>
 <h2 align = center >Sequência e linguagens de programação usadas🖥🖱</h2>
 <br>
