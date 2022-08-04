@@ -3,10 +3,10 @@
 <br>
 <h1 align =center > Sobre 📚 </h1>
 <br>
-<p align = center>Meu nome é Cristiano. Estou participando de um bootcamp para alunos que são vencedores de uma Olimpíada de Matemática, a fim de desenvolver minhas habilidades na área de tecnologia. Sempre gostei muito de exercícios de matemática e lógica, o que me deu uma grande afinidade com o setor de TI. Durante o curso, alguns projetos serão desenvolvidos em grupos utilizando a metodologia ágil Scrum, que serão de grande valor para o meu crescimento profissional, me permitindo trabalhar com diversas tecnologias.</p>
+<p align = center>Desenvolvedor fullstack java junior pela Generation Brasil. Menção honrosa na OBMEP(Olimpíada Brasileira de matemática para escolas públicas). Iniciando carreira na área de TI. Disposto a aprender e trabalhar com novas tecnologias..</p>
 
 <br>
-<h2 align = center > Repositórios do projeto 📖</h2>
+<h2 align = center >  Projeto com java puro 📖</h2>
 <br>
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-
+<h2 align = center >  E-commerce 📖</h2>
 <u>E-commerce - Botanic House:</u> </a>https://botanichouse.netlify.app/</a>
 <br>
 <br>
