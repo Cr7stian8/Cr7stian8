@@ -1,7 +1,7 @@
 <br>
 <h1> About 📚 </h1>
 <br>
-<p>I work with web development. <br> I know: Java, Spring, React, APIRest, Python <br> I studyng: Angular, PHP, SCSS <br><br> Projects: <br> 1: botanichouse.netlify.app <br> 2: https://reflexo22.vercel.app <br> 3: https://apinasatp.vercel.app </p>
+<p>I work with web development. <br> I know: Java, Spring, React, APIRest, Python <br> I studyng: Angular, PHP, SCSS <br><br> Projects: <br> 1: https://botanichouse.netlify.app <br> 2: https://reflexo22.vercel.app <br> 3: https://apinasatp.vercel.app </p>
 
 <br>
 <hr>
