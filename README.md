@@ -1,7 +1,7 @@
 <br>
 <h1> About 📚 </h1>
 <br>
-<p>I work with web development. <br> I know: Java, Spring, React, APIRest and Python <br> I studyng: Angular, PHP, SCSS, JavaScipt and TypeScript <br><br> Projects: <br> 1: https://apinasatp.vercel.app/API/API-Nasa/index.html <br> 2: https://reflexo22.vercel.app <br> 3: https://botanichouse.netlify.app </p>
+<p>I work with web development. <br> I know: Java, Spring, React, APIRest, Python and WordPress <br> I studyng: Angular, PHP, SCSS, JavaScipt, TypeScript and Figma. <br><br> Projects: <br> 1: https://apinasatp.vercel.app/API/API-Nasa/index.html <br> 2: https://reflexo22.vercel.app <br> 3: https://botanichouse.netlify.app </p>
 
 <br>
 <hr>
