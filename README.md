@@ -1,7 +1,7 @@
 <br>
 <h1> About 📚 </h1>
 <br>
-<p> I know: Java, Spring, React, APIRest, Python<br> I studyng: Angular, PHP, SCSS, JavaScipt, TypeScript and Figma. <br><br> Projects: <br> 1: https://apinasatp.vercel.app/API/API-Nasa/index.html <br> 2: https://reflexo22.vercel.app <br> 
+<p> I know: Java, Spring, React, APIRest, Python<br> I studyng: Angular, PHP, SCSS, JavaScipt, TypeScript and Figma. <br>
 
 <br>
 <hr>
