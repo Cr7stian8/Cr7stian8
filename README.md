@@ -8,4 +8,4 @@
   https://nasatp.vercel.app 
   <br>
        https://paisestp.vercel.app <br>
-       [freela de Evento](https://github.com/Cr7stian8/reflexo-23)
+       (https://github.com/Cr7stian8/reflexo-23)
