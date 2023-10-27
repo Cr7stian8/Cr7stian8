@@ -3,7 +3,6 @@
 
 
 <h1>projects 🚀 </h1>
-  https://iniciotp.vercel.app 
   <br>
   https://nasatp.vercel.app 
   <br>
