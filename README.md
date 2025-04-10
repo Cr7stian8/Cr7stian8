@@ -1,8 +1,8 @@
-<h1> About 📚 </h1>
-<p> I know: Java, Spring, React, APIRest, Python<br> I studyng: Angular, PHP, SCSS, JavaScipt, TypeScript and Figma. <br>
+<h1> Sobre 📚 </h1>
+<p> Ando vendo o seguinte: Java, Spring, React, APIRest, Python<br> Pretendo estudar o que sucede um dia: Angular, PHP, SCSS, JavaScipt, TypeScript and Figma. <br>
 
 
-<h1>projects 🚀 </h1>
+<h1>Projetos que ainda não terminei, mas um dia eu termino, confia. 🚀 </h1>
   <br>
   https://nasatp.vercel.app 
   <br>
