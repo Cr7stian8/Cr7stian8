@@ -8,5 +8,5 @@
   <br>
        https://paisestp.vercel.app <br>
 <h5>
-  PS: Nada aqui vai IA 
+  PS: Nada aqui vai IA, só a foto do perfil
 </h5>
