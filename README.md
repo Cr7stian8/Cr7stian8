@@ -1,8 +1,8 @@
 <h1> Sobre 📚 </h1>
-<p> Ando vendo o seguinte: Java, Spring, React, APIRest, Python, JavaScipt<br> Pretendo estudar o que sucede um dia: PHP, TypeScript e Figma. <br>
+<p> Ando vendo: Java, Spring, React, APIRest, Python, JavaScipt<br> Pretendo estudar um dia: PHP, TypeScript e Figma. <br>
 
 
-<h1>Um dia eu termino, confia. 🚀 </h1>
+<h3>Projetos aleatórios que pretendo terminar um dia 🚀 </h3>
   <br>
   https://nasatp.vercel.app 
   <br>
