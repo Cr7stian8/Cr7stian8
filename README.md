@@ -3,7 +3,6 @@
 
 
 <h3>Projetos aleatórios que pretendo terminar um dia 🚀 </h3>
-  <br>
   https://nasatp.vercel.app 
   <br>
        https://paisestp.vercel.app <br>
